@@ -34,7 +34,7 @@ The best of them you can find here, on my GitHub. One of my project I am especia
 • Ukrainian - native speaker
 • Russian - native speaker
 
-### Links to my pet-projects:
+### Links to my best pet-projects:
 
 [Statify](https://github.com/GeorgeShvab/Statify)
 
