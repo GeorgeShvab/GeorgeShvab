@@ -20,6 +20,7 @@ I am also a student of Taras Shevchenko National University of Kyiv. Thanks to m
 • HTML, CSS, SASS, SCSS, JavaScript, TypeScript
 • React, Redux, Redux Toolkit
 • React Query, RTK Query
+• TailwindCSS, MaterialUI
 • Express, NextJs
 • MongoDB, SQL, PostgreSQL, Prisma
 • Git, Npm, Figma, GIS
