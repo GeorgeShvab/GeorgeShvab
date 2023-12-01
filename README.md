@@ -3,8 +3,10 @@
 I am Heorhii Shvab, a junior Frontend/Fullstack developer.
 
 For two and a half years I have been practicing non-commercial web development.
-I specialise in full-stack technologies including HTML, CSS, JavaScript, TypeScript, React, Redux, NextjJs and NodeJs/Express. I have also worked with databases such as SQL(PostgreSQL) and MongoDB(Mongoose).
-You can find more on my social networks.
+
+I specialise in full-stack technologies including HTML, CSS, JavaScript, TypeScript, React, Redux, NextjJs and NodeJs/Express. I have also worked with databases such as SQL (PostgreSQL) and MongoDB(Mongoose).
+
+More information about me and my programming skills you can find on my LinkedIn [account](https://www.linkedin.com/in/heorhii-shvab-60b41117a/).
 
 I got programming skills thanks to self-learning as well as web development courses including Meta's Front-End Developer Program and Harvard's Programming for Web Developers.
 
