@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Heorhii Shvab, a junior Front-End developer (Full stack developer)
+I am Heorhii Shvab, a junior Frontend/Fullstack developer.
 
 For two and a half years I have been practicing non-commercial web development.
 I specialise in full-stack technologies including HTML, CSS, JavaScript, TypeScript, React, Redux, NextjJs and NodeJs/Express. I have also worked with databases such as SQL(PostgreSQL) and MongoDB(Mongoose).
