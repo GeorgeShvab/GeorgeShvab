@@ -1,14 +1,10 @@
+<br>
 
 # <p align="center">🏠 Hi there👋, my name is Heorhii Shvab</p>
-### I am Heorhii Shvab, a junior Frontend/Fullstack developer. For two and a half years I have been practicing non-commercial web development.
 
+<p align="center">I am a junior Frontend/Fullstack developer. For two and a half years I have been practicing non-commercial web development.</p>
 
-## 📲 My Links
-
-- 🧾 My latest project is [Statify](https://statify.world). I am especially proud of it because It is really useful and was mentioned in the article from dev.ua.
-- ☁ One of the old projects but at the same time useful is [Cumulus](https://github.com/GeorgeShvab/Cumulus)
-- 📝 Another one you can visit is [WallE](https://walle-en6twynp6a-uc.a.run.app)
-
+<br>
 
 ## 💡 About Me
 
@@ -16,8 +12,19 @@
 - 💌 You can write to me at georgiy.shvab@gmail.com
 - 📚 I got programming skills thanks to self-learning as well as web development courses including Meta's Front-End Developer Program and Harvard's Programming for Web Developers.
 - 🧾 During the last two and a half years, I have completed dozens of pet-projects. The best of them you can find here.
-- 👨‍🎓 I am also a student of Taras Shevchenko National University of Kyiv. Thanks to my major, I have experience in working with GIS systems. My hobbies are closely connected to my major - Human Geography.
+- 👨‍🎓 I am also a student of Taras Shevchenko National University of Kyiv. I study Human Geography, which is why I have experience in working with GIS systems.
 - 📘 My English proficiency is B1-B2.
+
+<br>
+
+## 📲 My Links
+
+- 🧾 My latest project is [Statify](https://statify.world). I am especially proud of it because It is really useful and was mentioned in the article from dev.ua.
+- ☁ One of the old projects but at the same time useful is [Cumulus](https://github.com/GeorgeShvab/Cumulus)
+- 📝 Another one you can visit is [WallE](https://walle-en6twynp6a-uc.a.run.app)
+- 😁 My [LinkedIn](https://www.linkedin.com/in/heorhii-shvab-60b41117a/)
+
+<br>
 
 ## 🔨 Skills
  
@@ -46,7 +53,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Skills" align="left" width="60" height="80"/> 
-
-
-## 📰 Social links
- - [LinkedIn](https://www.linkedin.com/in/heorhii-shvab-60b41117a/)
