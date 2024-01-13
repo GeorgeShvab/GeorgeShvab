@@ -1,5 +1,5 @@
 
-<p align="center"># 🏠 Hi there👋, my name is Heorhii Shvab</p>
+# <p align="center">🏠 Hi there👋, my name is Heorhii Shvab</p>
 ### I am Heorhii Shvab, a junior Frontend/Fullstack developer. For two and a half years I have been practicing non-commercial web development.
 
 
@@ -47,7 +47,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Skills" align="left" width="60" height="80"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Skills" align="left" width="60" height="80"/> 
 
-<br><br><br>
 
 ## 📰 Social links
  - [LinkedIn](https://www.linkedin.com/in/heorhii-shvab-60b41117a/)
