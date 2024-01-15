@@ -1,9 +1,7 @@
 <br>
 
 # <p align="center" border="none">👋 Hi there, my name is Heorhii Shvab</p>
-
-<br>
-
+---
 <p align="center">I am a junior Frontend/Fullstack developer. For two and a half years I have been practicing non-commercial web development.</p>
 
 <br>
