@@ -1,6 +1,6 @@
 <br>
 
-# <p align="center">Hi there👋, my name is Heorhii Shvab</p>
+# <p align="center" border="none">👋 Hi there, my name is Heorhii Shvab</p>
 
 <br>
 
