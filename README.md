@@ -1,9 +1,9 @@
 <br>
 
-# <p align="center" border="none">👋 Hi there, my name is Heorhii Shvab</p>
-
-
+<h1 align="center" border="none">
+<p>👋 Hi there, my name is Heorhii Shvab</p>
 <p align="center">I am a junior Frontend/Fullstack developer. For two and a half years I have been practicing non-commercial web development.</p>
+</h1>
 
 <style>h1 { border-bottom: 0; }</style>
 
