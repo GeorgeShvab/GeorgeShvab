@@ -12,7 +12,7 @@
 - 📚 I got programming skills thanks to self-learning as well as web development courses including Meta's Front-End Developer Program, Harvard's Programming for Web Developers, and Agile Project Management from Google.
 - 🧾 During the last two and a half years, I have completed dozens of pet-projects. The best of them you can find here.
 - 👨‍🎓 I am also a student of Taras Shevchenko National University of Kyiv. I study Human Geography, which is why I have experience in working with GIS systems.
-- 📘 My English proficiency is B1-B2.
+- 📘 My English proficiency is B2.
 
 <br>
 
