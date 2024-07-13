@@ -11,7 +11,7 @@
 - 💌 You can write to me at georgiy.shvab@gmail.com
 - 📚 I got programming skills thanks to self-learning as well as web development courses including Meta's Front-End Developer Program, Harvard's Programming for Web Developers.
 - 🧾 During the last two and a half years, I have completed dozens of pet-projects. The best of them you can find here.
-- 👨‍🎓 I am also a student of Taras Shevchenko National University of Kyiv. I study Human Geography, which is why I have experience in working with GIS systems.
+- 👨‍🎓 I am also a student of Taras Shevchenko National University of Kyiv. I study Human Geography, which is why I have experience in working with GIS systems and various software related to statistics and analytics.
 - 📘 My English proficiency is B2.
 
 <br>
