@@ -19,6 +19,6 @@
 ## 📲 My Links
 
 - 🧾 My latest project is [Statify](https://statify.world). I am especially proud of it because It is really useful and was mentioned in the article from dev.ua.
-- ☁ One of the useful old projects is [Cumulus](https://github.com/GeorgeShvab/Cumulus)
+- ☁ One of the useful old projects is [Cumulus](https://github.com/GeorgeShvab/Cumulus-2.0)
 - 😁 My [LinkedIn](https://www.linkedin.com/in/heorhii-shvab-60b41117a/)
 
