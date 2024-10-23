@@ -16,6 +16,6 @@
 
 ## 📲 My Links
 
-- 🧾 My latest project is [Statify](https://statify.world).
+- 🧾 My latest project is [Statify](https://statify-iota.vercel.app).
 - 😁 My [LinkedIn](https://www.linkedin.com/in/heorhii-shvab-60b41117a/)
 
