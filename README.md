@@ -9,7 +9,7 @@
 
 - 🎮 My hobbies are urbanism, geopolitics, gaming, anime...
 - 💌 You can write to me at georgiy.shvab@gmail.com
-- 👨‍🎓 I have a bachelor degree from Taras Shevchenko National University of Kyiv. I studied Human Geography (Regional Development Planning), which is why I have experience in working with GIS systems and various software related to statistics and analytics.
+- 👨‍🎓 I am a master's student at Taras Shevchenko National University of Kyiv, studying Urban Planning. My studies have given me experience with GIS systems and various software related to statistics and analytics.
 - 📘 My English proficiency is B2.
 
 <br>
